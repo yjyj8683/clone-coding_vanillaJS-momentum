@@ -4,11 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3686760-cae5-4a11-a7b7-10efc9196ac9" name="Changes" comment="" />
+    <list default="true" id="f3686760-cae5-4a11-a7b7-10efc9196ac9" name="Changes" comment="2.6 강의 완료 : Objects">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,6 +62,11 @@
       <option name="presentableId" value="Default" />
       <updated>1640245645208</updated>
       <workItem from="1640245646517" duration="2524000" />
+      <workItem from="1640249362382" duration="53000" />
+      <workItem from="1640326273400" duration="2928000" />
+      <workItem from="1640674137376" duration="2039000" />
+      <workItem from="1643874519770" duration="603000" />
+      <workItem from="1643962213772" duration="1245000" />
     </task>
     <task id="LOCAL-00001" summary="2.0 강의 완료 : html, css, js 파일 추가">
       <created>1640249317439</created>
@@ -64,11 +75,29 @@
       <option name="project" value="LOCAL" />
       <updated>1640249317439</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2.0 강의 완료 : html, css, js 파일 추가">
+      <created>1640249390976</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1640249390976</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.0 강의 완료 : html, css, js 파일 추가" />
