@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3686760-cae5-4a11-a7b7-10efc9196ac9" name="Changes" comment="2.6 강의 완료 : Objects">
+    <list default="true" id="f3686760-cae5-4a11-a7b7-10efc9196ac9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
       <workItem from="1640326273400" duration="2928000" />
       <workItem from="1640674137376" duration="2039000" />
       <workItem from="1643874519770" duration="603000" />
-      <workItem from="1643962213772" duration="1245000" />
+      <workItem from="1643962213772" duration="2688000" />
     </task>
     <task id="LOCAL-00001" summary="2.0 강의 완료 : html, css, js 파일 추가">
       <created>1640249317439</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640249390976</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2.6 강의 완료 : Objects">
+      <created>1643963473101</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643963473101</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2.0 강의 완료 : html, css, js 파일 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.0 강의 완료 : html, css, js 파일 추가" />
+    <MESSAGE value="2.6 강의 완료 : Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.6 강의 완료 : Objects" />
   </component>
 </project>

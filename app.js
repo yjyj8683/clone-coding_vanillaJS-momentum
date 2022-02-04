@@ -1,4 +1,4 @@
-// variable
+// variable 변수
 const playerName = "sy";
 const playerPoints = 9999;
 
@@ -16,4 +16,18 @@ const player = {
 console.log(player);
 console.log(player.name);
 
+// function
+// 코드를 캡슐화해서 실행을 여러 번 할 수 있게 해줌
 // ~. 의 다음은 function 임
+// ()가 함수를 실행하는 방법
+function sayHello(NameOFRerson, age){
+    console.log("Hello my name is");
+    console.log(NameOFRerson);
+    console.log("Hello my name is" + NameOFRerson + " and I'm " age);
+}
+console.log();
+sayHello();
+sayHello("sy");
+sayHello("nico", 10);
+
+// NaN : not a number (숫자가 아님)
